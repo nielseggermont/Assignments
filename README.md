@@ -13,3 +13,4 @@ this repository contains my assignments
 
 [final assignment python](https://github.com/nielseggermont/Assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
 
+[final assignment R](https://github.com/nielseggermont/Assignments/blob/master/OECD_R_exam.ipynb)

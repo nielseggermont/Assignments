@@ -10,3 +10,6 @@ this repository contains my assignments
 [assignment 4](https://github.com/nielseggermont/Assignments/blob/master/assignment4.ipynb)
 
 [assignment 5](https://github.com/nielseggermont/Assignments/blob/master/assignment5.ipynb)
+
+[final assignment python](https://github.com/nielseggermont/Assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
+
